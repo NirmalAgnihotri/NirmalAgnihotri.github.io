@@ -4,10 +4,10 @@ Hey! Welcome to my [page](index.md). I'm a undergraduate Computer Science studen
 
 ### Current Learning Goals
 - [x] ~Learn some basic Markdown~
-- [] Learn a database language, specifically SQL
-- [] Use and learn more about MongoDB
-- [] Practice Javascript, especially the REACT framework
-- [] Create a useful project using Python
+- [ ] Learn a database language, specifically SQL
+- [ ] Use and learn more about MongoDB
+- [ ] Practice Javascript, especially the REACT framework
+- [ ] Create a useful project using Python
 
 ### Some Projects
 1. Feeding San Diego
@@ -47,7 +47,7 @@ std::cout << toPrint << std::endl;
  ```
  Interestingly both snippets will print the same thing, 52. This is because in compilation arr[2] will become *(arr + 2) and 2[arr] would just become *(2 + arr). Both are equivalent, but arr[2] is certainly nicer.
 
- ##### Favorite Hobby
+##### Favorite Hobby
  One of my favorite hobbies is building PC's! I love learning about hardware, its why Computer Architecture was one of my favorite [classes](https://github.com/NirmalAgnihotri/NirmalAgnihotri.github.io/blob/main/index.md#my-favorite-classes-so-far-ranked) and I hope to learn more in the future! Here's a pic of my current build after some recent upgrades:
 
  ![alt text](currentBuildMid.png)
