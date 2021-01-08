@@ -1,6 +1,6 @@
 ## About Me
 
-Hey! Welcome to my [page](index.md). I'm a undergraduate Computer Science student at *UC San Diego* where I will be **graduating in _2023_**. My interests include **Web Devlopment**, **Data Structures**, and **Systems Programming**. I also especially enjoy creating software for ***social good***. While you're here, make sure to read about some of my [Projects](#some-projects), a [ranking](#my-favorite-classes-so-far-ranked) of my favorite classes at UCSD, and a fun [fact](#fun-fact-about-c) about C++. Also, check out my [Linkedin] (https://www.linkedin.com/in/nirmal-agnihotri-29372a1a5/).
+Hey! Welcome to my [page](index.md). I'm a undergraduate Computer Science student at *UC San Diego* where I will be **graduating in _2023_**. My interests include **Web Devlopment**, **Data Structures**, and **Systems Programming**. I also especially enjoy creating software for ***social good***. While you're here, make sure to read about some of my [Projects](#some-projects), a [ranking](#my-favorite-classes-so-far-ranked) of my favorite classes at UCSD, and a fun [fact](#fun-fact-about-c) about C++. Also, check out my [Linkedin](https://www.linkedin.com/in/nirmal-agnihotri-29372a1a5/).
 
 ### Current Learning Goals
 - [x] ~Learn some basic Markdown~
