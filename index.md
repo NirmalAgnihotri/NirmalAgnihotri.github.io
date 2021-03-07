@@ -2,7 +2,7 @@
 
 Hey! Welcome to my [page](index.md). I'm an undergraduate Computer Science student at *UC San Diego* where I will be graduating in _2023_. My interests include **Web Devlopment**, **Data Structures**, and **Systems Programming**.
 
-[LinkedIn](www.linkedin.com/in/nirmal-agnihotri-29372a1a5){: .btn .btn-blue }  [Github](https://github.com/NirmalAgnihotri){: .btn .btn-purple } 
+[LinkedIn](www.linkedin.com/in/nirmal-agnihotri-29372a1a5){: .btn .btn-blue }  [Github](https://github.com/NirmalAgnihotri){: .btn .btn-purple } [Resume](Nirmal_Agnihotri_Resume.pdf){: .btn .btn-purple } 
 
 ### Experience
 1. Feeding San Diego
